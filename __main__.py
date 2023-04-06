@@ -210,4 +210,4 @@ async def vopros(ctx):
     await ctx.send('где я')
 
 
-bot.run('MTA5MjA2MzI1MDEwMDc5MzM4NQ.GYrHBH.ZRWcPH8X9hmSEMxrWjcYwEBcI7pVltUb7S0Ldo')
+bot.run('token')
