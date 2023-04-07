@@ -50,7 +50,7 @@ async def help(ctx):
 
 @bot.command()
 async def priv(ctx):
-    await ctx.send(f'хола, {author.mention}!')
+    await ctx.send('хола ёк макарёк')
 
 
 @bot.command()
